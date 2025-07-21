@@ -52,8 +52,11 @@ pip install -r requirements.txt
 ### 4. Run the Agent Script
 ```bash
 python quick_start.py
+```
 
-## 🙏 Credits
+> The terminal output from running these commands is stored in `terminal_output.txt`.
+
+## Credits
 Developed by **Shobhit Agarwal**.  
 Follow on Medium: [https://iamshobhitagarwal.medium.com/](https://iamshobhitagarwal.medium.com/)
 
