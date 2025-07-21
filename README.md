@@ -26,6 +26,7 @@ bug-fix-autogen/
 ├── utils/              # Helper classes for file handling, code execution
 ├── workspace/          # Ephemeral directory for code execution and file generation
 ├── main.py             # Main entry point for the bug-fixing system
+├── quick_start.py      # Quick start script for running the bug-fixing system
 ├── setup.py            # Project setup and dependencies
 └── README.md           # This file
 ```
