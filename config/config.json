@@ -1,0 +1,19 @@
+{
+    "llm_config": {
+        "model": "gpt-4o",
+        "api_type": "azure",
+        "api_version": "2024-02-15-preview",
+        "temperature": 0.1,
+        "max_tokens": 4000,
+        "timeout": 120
+    },
+    "code_execution_config": {
+        "work_dir": "workspace",
+        "use_docker": false,
+        "timeout": 60
+    },
+    "agents_config": {
+        "max_consecutive_auto_reply": 10,
+        "human_input_mode": "NEVER"
+    }
+}
